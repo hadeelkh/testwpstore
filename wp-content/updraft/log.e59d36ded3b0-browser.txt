@@ -1,0 +1,7 @@
+0000.053 (R) [notice] Looking for plugins archive: file name: backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip
+0000.057 (R) [warning] Archive is expected to be size: 11659.4 KB: Error: file is size: 22528 (11939257, 23068683)
+0000.066 (R) [notice] Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip, 22 MB)
+0000.086 (R) [notice] Moving old data out of the way...
+0000.561 (R) [notice] Cleaning up rubbish...
+0000.569 (R) [notice] Plugin path simply-static/simply-static.php not found: de-activating.
+0000.569 (R) [notice] Plugin path updraftplus/updraftplus.php not found: de-activating.

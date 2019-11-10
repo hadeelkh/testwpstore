@@ -1,0 +1,75 @@
+0000.058 () Opened log file at time: Sun, 10 Nov 2019 11:53:51 +0000 on http://localhost/testwpstore
+0000.059 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.20 WP: 5.2.4 PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-HVD8U4O 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 29.9M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.059 () Free space on disk containing Updraft's temporary directory: 133514.7 MB
+0000.022 () Opened log file at time: Sun, 10 Nov 2019 11:53:52 +0000 on http://localhost/testwpstore
+0000.023 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.20 WP: 5.2.4 PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-HVD8U4O 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 25.5M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.023 () Free space on disk containing Updraft's temporary directory: 133514.5 MB
+0000.040 () Ensuring WP_Filesystem is setup for a restore
+0000.043 () WP_Filesystem is setup and ready for a restore
+0000.049 () Restore job started. Entities to restore: themes, uploads, others, db. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.067 () Entity: db
+0000.067 () restore_backup(backup_file=backup_2019-11-10-1142_hadeel_store_adc6634657f9-db.gz, type=db, info=a:0:{}, last_one=)
+0000.067 () PHP event: code E_NOTICE: Undefined index: path (line 1403, C:\xampp\htdocs\testwpstore\wp-content\plugins\updraftplus\restorer.php)
+0000.068 () Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-db.gz, 0.2 Mb)
+0000.075 () Database successfully unpacked
+0000.076 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.076 () Using direct MySQL access; value of use_mysqli is: 1
+0000.077 () SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0000.164 () Max packet size: 32 MB
+0000.164 () Entering maintenance mode
+0000.164 () Enabling Maintenance mode&#8230;
+0000.170 () Backup of: http://localhost/testwpstore
+0000.171 () Content URL: http://localhost/testwpstore/wp-content
+0000.171 () Uploads URL: http://localhost/testwpstore/wp-content/uploads
+0000.171 () Old table prefix: wp_
+0000.171 () Site information: multisite=0
+0000.172 () New table prefix: wp_
+0000.188 () Processing table (InnoDB): wp_options
+0000.317 () Restoring prior UD configuration (table: wp_options; keys: 4)
+0000.349 () Processing table (InnoDB): wp_users
+0000.484 () Processing table (InnoDB): wp_usermeta
+0000.601 () Processing table (InnoDB): wp_commentmeta
+0000.734 () Processing table (InnoDB): wp_comments
+0000.833 () Processing table (InnoDB): wp_links
+0000.917 () Processing table (InnoDB): wp_postmeta
+0001.004 () Processing table (InnoDB): wp_posts
+0001.076 () Processing table (InnoDB): wp_term_relationships
+0001.250 () Processing table (InnoDB): wp_term_taxonomy
+0001.386 () Processing table (InnoDB): wp_termmeta
+0001.471 () Processing table (InnoDB): wp_terms
+0001.572 () Processing table (InnoDB): wp_simply_static_pages
+0001.694 () UpdraftPlus Vault: this site has not been connected - check your settings
+0008.765 () Unlocking database and leaving maintenance mode
+0008.765 () Disabling Maintenance mode&#8230;
+0008.767 () Finished: lines processed: 44 in 8.69 seconds
+0008.769 () Cleaning up rubbish...
+0008.804 () Entity: themes
+0008.804 () restore_backup(backup_file=backup_2019-11-10-1142_hadeel_store_adc6634657f9-themes.zip, type=themes, info=a:2:{s:4:"path";s:45:"C:\xampp\htdocs\testwpstore/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0008.808 () Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-themes.zip, 5.8 MB)
+0008.815 () Unzipping backup_2019-11-10-1142_hadeel_store_adc6634657f9-themes.zip to C:/xampp/htdocs/testwpstore/wp-content/upgrade/a027004d/ using UpdraftPlus_ZipArchive, starting index 0
+0021.405 () Unzip progress: 1002 out of 1041 files (12.7 MB, themes/twentysixteen/css/ie7.css)
+0021.708 () Unzip progress: 1041 out of 1041 files (13.5 MB, themes/twentysixteen/template-parts/content.php)
+0021.711 () Moving old data: filesystem method / updraft_dir is potentially possible
+0021.712 () Moving old data: can potentially use wp_filesystem method / -old
+0021.712 () Moving old data out of the way...
+0021.829 () Top-level entities being moved: index.php, themify-shope, twentynineteen, twentyseventeen, twentysixteen
+0021.836 () Moving unpacked backup into place...
+0021.953 () Top-level entities being moved: index.php, themify-shope, twentynineteen, twentyseventeen, twentysixteen
+0021.959 () Cleaning up rubbish...
+0021.967 () Entity: uploads
+0021.967 () restore_backup(backup_file=backup_2019-11-10-1142_hadeel_store_adc6634657f9-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:46:"C:\xampp\htdocs\testwpstore/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0021.967 () Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-uploads.zip, 0 MB)
+0021.968 () Unzipping backup_2019-11-10-1142_hadeel_store_adc6634657f9-uploads.zip to C:/xampp/htdocs/testwpstore/wp-content/upgrade/0e9c38b6/ using UpdraftPlus_ZipArchive, starting index 0
+0021.972 () Moving old data: filesystem method / updraft_dir is potentially possible
+0021.972 () Moving old data: can potentially use wp_filesystem method / -old
+0021.972 () Moving old data out of the way...
+0021.974 () Moving unpacked backup into place...
+0021.977 () Cleaning up rubbish...
+0021.983 () Entity: others
+0021.983 () restore_backup(backup_file=backup_2019-11-10-1142_hadeel_store_adc6634657f9-others.zip, type=others, info=a:2:{s:4:"path";s:38:"C:\xampp\htdocs\testwpstore/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0021.984 () Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-others.zip, 0 MB)
+0021.985 () Unzipping backup_2019-11-10-1142_hadeel_store_adc6634657f9-others.zip to C:/xampp/htdocs/testwpstore/wp-content/upgrade/928d18ff/ using UpdraftPlus_ZipArchive, starting index 0
+0021.993 () Unzip progress: 1 out of 1 files (28 B, index.php)
+0021.996 () Cleaning up rubbish...
+0022.016 () Restore successful!
+0022.016 () Restore successful

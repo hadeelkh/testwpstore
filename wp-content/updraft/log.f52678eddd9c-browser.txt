@@ -1,0 +1,47 @@
+0000.049 (R) [notice] Looking for db archive: file name: backup_2019-11-10-1142_hadeel_store_adc6634657f9-db.gz
+0000.050 (R) [notice] Archive is expected to be size: 159.9 KB: OK
+0000.054 (R) [notice] Looking for themes archive: file name: backup_2019-11-10-1142_hadeel_store_adc6634657f9-themes.zip
+0000.055 (R) [notice] Archive is expected to be size: 5916 KB: OK
+0000.057 (R) [notice] Looking for uploads archive: file name: backup_2019-11-10-1142_hadeel_store_adc6634657f9-uploads.zip
+0000.058 (R) [notice] Archive is expected to be size: 0.2 KB: OK
+0000.061 (R) [notice] Looking for others archive: file name: backup_2019-11-10-1142_hadeel_store_adc6634657f9-others.zip
+0000.062 (R) [notice] Archive is expected to be size: 0.1 KB: OK
+0000.068 (R) [notice] Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-db.gz, 0.2 Mb)
+0000.076 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.164 (R) [notice] Enabling Maintenance mode&#8230;
+0000.170 (R) [notice] Backup of: http://localhost/testwpstore
+0000.171 (R) [notice] Content URL: http://localhost/testwpstore/wp-content
+0000.171 (R) [notice] Uploads URL: http://localhost/testwpstore/wp-content/uploads
+0000.171 (R) [notice] Old table prefix: wp_
+0000.171 (R) [notice] Site information: multisite = 0
+0000.172 (R) [notice] New table prefix: wp_
+0000.188 (R) [notice] Processing table (InnoDB):  wp_options
+0000.349 (R) [notice] Processing table (InnoDB):  wp_users
+0000.484 (R) [notice] Processing table (InnoDB):  wp_usermeta
+0000.601 (R) [notice] Processing table (InnoDB):  wp_commentmeta
+0000.734 (R) [notice] Processing table (InnoDB):  wp_comments
+0000.833 (R) [notice] Processing table (InnoDB):  wp_links
+0000.917 (R) [notice] Processing table (InnoDB):  wp_postmeta
+0001.004 (R) [notice] Processing table (InnoDB):  wp_posts
+0001.076 (R) [notice] Processing table (InnoDB):  wp_term_relationships
+0001.250 (R) [notice] Processing table (InnoDB):  wp_term_taxonomy
+0001.386 (R) [notice] Processing table (InnoDB):  wp_termmeta
+0001.471 (R) [notice] Processing table (InnoDB):  wp_terms
+0001.572 (R) [notice] Processing table (InnoDB):  wp_simply_static_pages
+0008.765 (R) [notice] Disabling Maintenance mode&#8230;
+0008.767 (R) [notice] Finished: lines processed: 44 in 8.69 seconds
+0008.769 (R) [notice] Cleaning up rubbish...
+0008.808 (R) [notice] Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-themes.zip, 5.8 MB)
+0021.404 (R) [notice] Unzip progress: 1002 out of 1041 files (12.7 MB, themes/twentysixteen/css/ie7.css)
+0021.708 (R) [notice] Unzip progress: 1041 out of 1041 files (13.5 MB, themes/twentysixteen/template-parts/content.php)
+0021.712 (R) [notice] Moving old data out of the way...
+0021.836 (R) [notice] Moving unpacked backup into place...
+0021.959 (R) [notice] Cleaning up rubbish...
+0021.967 (R) [notice] Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-uploads.zip, 0 MB)
+0021.972 (R) [notice] Moving old data out of the way...
+0021.974 (R) [notice] Moving unpacked backup into place...
+0021.977 (R) [notice] Cleaning up rubbish...
+0021.984 (R) [notice] Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-others.zip, 0 MB)
+0021.993 (R) [notice] Unzip progress: 1 out of 1 files (28 B, index.php)
+0021.996 (R) [notice] Cleaning up rubbish...
+0022.016 (R) [notice] Restore successful!

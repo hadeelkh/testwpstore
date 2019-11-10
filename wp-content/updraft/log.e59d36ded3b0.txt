@@ -1,0 +1,21 @@
+0000.051 () Opened log file at time: Sun, 10 Nov 2019 12:44:40 +0000 on http://localhost/testwpstore
+0000.051 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.20 WP: 5.2.4 PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-HVD8U4O 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 29.9M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.052 () Free space on disk containing Updraft's temporary directory: 133467.3 MB
+0000.023 () Opened log file at time: Sun, 10 Nov 2019 12:44:41 +0000 on http://localhost/testwpstore
+0000.023 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.20 WP: 5.2.4 PHP: 7.2.24 (apache2handler, Windows NT DESKTOP-HVD8U4O 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.8-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.24 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 25.5M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.024 () Free space on disk containing Updraft's temporary directory: 133467.2 MB
+0000.042 () Ensuring WP_Filesystem is setup for a restore
+0000.045 () WP_Filesystem is setup and ready for a restore
+0000.052 () Restore job started. Entities to restore: plugins. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.065 () Entity: plugins
+0000.065 () restore_backup(backup_file=backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:46:"C:\xampp\htdocs\testwpstore/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=1)
+0000.066 () Unpacking backup... (backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip, 22 MB)
+0000.068 () Unzipping backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip to C:/xampp/htdocs/testwpstore/wp-content/upgrade/6a969db9/ using UpdraftPlus_ZipArchive, starting index 0
+0000.068 () Unzipping backup_2019-11-10-1142_hadeel_store_adc6634657f9-plugins.zip to C:/xampp/htdocs/testwpstore/wp-content/upgrade/6a969db9/ using UpdraftPlus_PclZip, starting index 0
+0000.086 () Moving old data: filesystem method / updraft_dir is potentially possible
+0000.086 () Moving old data: can potentially use wp_filesystem method / -old
+0000.086 () Moving old data out of the way...
+0000.550 () Top-level entities being moved: akismet, hello.php, index.php, simply-static, updraftplus, woocommerce
+0000.561 () Cleaning up rubbish...
+0000.569 () Plugin path simply-static/simply-static.php not found: de-activating.
+0000.569 () Plugin path updraftplus/updraftplus.php not found: de-activating.

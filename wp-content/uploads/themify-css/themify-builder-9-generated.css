@@ -1,55 +1,44 @@
-.themify_builder_9_row.module_row_0.module_row{background-image: url("https://themify.me/demo/themes/shoppe-black/files/2016/12/macbook-pro-5-1.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; text-align: center; padding-top:16%; padding-bottom:16%; }
-.themify_builder_9_row.module_row_0.module_row>.builder_row_cover::before{background-image:-webkit-linear-gradient(180deg,rgba(0, 0, 0, 0.6) 0%,rgba(0, 0, 0, 0.53) 100%);
-background-image:-o-linear-gradient(180deg,rgba(0, 0, 0, 0.6) 0%,rgba(0, 0, 0, 0.53) 100%);
-background-image:linear-gradient(180deg,rgba(0, 0, 0, 0.6) 0%,rgba(0, 0, 0, 0.53) 100%);
-}
+.themify_builder_9_row.module_row_0.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; text-align: left; padding-top:17%; padding-bottom:17%; padding-left:5%; }
 .themify_builder_9_row.module_row_0.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_0 .module_column_0.tb_9_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_0 .module_column_0.tb_9_column.module_column>div.tb-column-inner,.module_row_0 .module_column_0.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_0 .module_column_0.tb_9_column.module_column,.module_row_0 .module_column_0.tb_9_column h1,.module_row_0 .module_column_0.tb_9_column h2,.module_row_0 .module_column_0.tb_9_column h3:not(.module-title),.module_row_0 .module_column_0.tb_9_column h4,.module_row_0 .module_column_0.tb_9_column h5,.module_row_0 .module_column_0.tb_9_column h6{color:#ffffff; }
-.themify_builder .text-9-0-0-0.module-text{background-repeat: repeat; background-position: left top; font-size:3.0em; line-height:1.1em; }
-.themify_builder .text-9-0-0-0.module-text p{margin-bottom:0px; }
-@media screen and (max-width: 768px) {.themify_builder .text-9-0-0-0.module-text{background-repeat: repeat; background-position: left top; font-size:1.8em; }
-}
-@media screen and (max-width: 680px) {.themify_builder .text-9-0-0-0.module-text{background-repeat: repeat; background-position: left top; }
-}
-.themify_builder_9_row.module_row_1.module_row{text-align: center; }
-.module_row_1 .module_column_0.tb_9_column.module_column{background-image: url("https://themify.me/demo/themes/shoppe-black/files/2016/12/iphone-7-plus.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:10%; padding-bottom:10%; }
-.module_row_1 .module_column_0.tb_9_column.module_column>.builder_row_cover::before{background-color:rgba(0,0,0, 0.40); }
-.module_row_1 .module_column_0.tb_9_column.module_column>div.tb-column-inner,.module_row_1 .module_column_0.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_1 .module_column_0.tb_9_column.module_column,.module_row_1 .module_column_0.tb_9_column h1,.module_row_1 .module_column_0.tb_9_column h2,.module_row_1 .module_column_0.tb_9_column h3:not(.module-title),.module_row_1 .module_column_0.tb_9_column h4,.module_row_1 .module_column_0.tb_9_column h5,.module_row_1 .module_column_0.tb_9_column h6{color:#ffffff; }
-@media screen and (max-width: 680px) {.module_row_1 .module_column_0.tb_9_column.module_column{background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:16%; padding-bottom:16%; }
-.module_row_1 .module_column_0.tb_9_column.module_column>div.tb-column-inner,.module_row_1 .module_column_0.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-}
-.themify_builder .text-9-1-0-0.module-text{background-repeat: repeat; background-position: left top; font-size:2.6em; }
-.themify_builder .text-9-1-0-0.module-text p{margin-bottom:0px; }
-@media screen and (max-width: 768px) {.themify_builder .text-9-1-0-0.module-text{background-repeat: repeat; background-position: left top; font-size:1.8em; line-height:1em; }
-}
-.module_row_1 .module_column_1.tb_9_column.module_column{background-image: url("https://themify.me/demo/themes/shoppe-black/files/2016/12/headphones.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:10%; padding-bottom:10%; }
-.module_row_1 .module_column_1.tb_9_column.module_column>.builder_row_cover::before{background-color:rgba(0,0,0, 0.40); }
-.module_row_1 .module_column_1.tb_9_column.module_column>div.tb-column-inner,.module_row_1 .module_column_1.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_1 .module_column_1.tb_9_column.module_column,.module_row_1 .module_column_1.tb_9_column h1,.module_row_1 .module_column_1.tb_9_column h2,.module_row_1 .module_column_1.tb_9_column h3:not(.module-title),.module_row_1 .module_column_1.tb_9_column h4,.module_row_1 .module_column_1.tb_9_column h5,.module_row_1 .module_column_1.tb_9_column h6{color:#ffffff; }
-.themify_builder .text-9-1-1-0.module-text{background-repeat: repeat; background-position: left top; font-size:2.6em; }
-.themify_builder .text-9-1-1-0.module-text p{margin-bottom:0px; }
-@media screen and (max-width: 768px) {.themify_builder .text-9-1-1-0.module-text{background-repeat: repeat; background-position: left top; font-size:1.8em; line-height:1.0em; }
-}
-.module_row_1 .module_column_2.tb_9_column.module_column{background-image: url("https://themify.me/demo/themes/shoppe-black/files/2016/12/drones-black.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:10%; padding-bottom:10%; }
-.module_row_1 .module_column_2.tb_9_column.module_column>.builder_row_cover::before{background-color:rgba(0,0,0, 0.40); }
-.module_row_1 .module_column_2.tb_9_column.module_column>div.tb-column-inner,.module_row_1 .module_column_2.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_1 .module_column_2.tb_9_column.module_column,.module_row_1 .module_column_2.tb_9_column h1,.module_row_1 .module_column_2.tb_9_column h2,.module_row_1 .module_column_2.tb_9_column h3:not(.module-title),.module_row_1 .module_column_2.tb_9_column h4,.module_row_1 .module_column_2.tb_9_column h5,.module_row_1 .module_column_2.tb_9_column h6{color:#ffffff; }
-@media screen and (max-width: 680px) {.module_row_1 .module_column_2.tb_9_column.module_column{background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:16%; padding-bottom:16%; }
-.module_row_1 .module_column_2.tb_9_column.module_column>div.tb-column-inner,.module_row_1 .module_column_2.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-}
-.themify_builder .text-9-1-2-0.module-text{background-repeat: repeat; background-position: left top; font-size:2.6em; }
-.themify_builder .text-9-1-2-0.module-text p{margin-bottom:0px; }
-@media screen and (max-width: 768px) {.themify_builder .text-9-1-2-0.module-text{background-repeat: repeat; background-position: left top; font-size:1.8em; line-height:1.0em; }
-}
-.themify_builder_9_row.module_row_2.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; background-color:#1b1b1b; padding-top:8%; padding-bottom:7%; }
+.themify_builder_9_row.module_row_0.module_row,.themify_builder_9_row.module_row_0 h1,.themify_builder_9_row.module_row_0 h2,.themify_builder_9_row.module_row_0 h3:not(.module-title),.themify_builder_9_row.module_row_0 h4,.themify_builder_9_row.module_row_0 h5,.themify_builder_9_row.module_row_0 h6{color:#ffffff; }
+.themify_builder .text-9-0-0-0.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder .text-9-0-0-1.module-text{background-repeat: repeat; background-position: left top; font-size:24px; font-style: normal; }
+.themify_builder .text-9-0-0-1.module-text,.themify_builder .text-9-0-0-1.module-text h1,.themify_builder .text-9-0-0-1.module-text h2,.themify_builder .text-9-0-0-1.module-text h3:not(.module-title),.themify_builder .text-9-0-0-1.module-text h4,.themify_builder .text-9-0-0-1.module-text h5,.themify_builder .text-9-0-0-1.module-text h6{font-family: Josefin Sans; font-weight: 300; }
+.themify_builder .buttons-9-0-0-2 .module-buttons-item a{color:#ffffff; }
+.themify_builder .buttons-9-0-0-2.module.module-buttons{background-repeat: repeat; }
+.themify_builder_9_row.module_row_1.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; text-align: center; padding-top:3%; }
+.themify_builder_9_row.module_row_1.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .text-9-1-0-0.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder_9_row.module_row_2.module_row{background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:2%; padding-bottom:2%; margin-top:0%; margin-bottom:0%; }
 .themify_builder_9_row.module_row_2.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.themify_builder_9_row.module_row_2.module_row,.themify_builder_9_row.module_row_2 h1,.themify_builder_9_row.module_row_2 h2,.themify_builder_9_row.module_row_2 h3:not(.module-title),.themify_builder_9_row.module_row_2 h4,.themify_builder_9_row.module_row_2 h5,.themify_builder_9_row.module_row_2 h6{color:#e0e0e0; }
-.themify_builder_9_row.module_row_2 a{color:#ffffff; }
-.module_row_2 .module_column_0.tb_9_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_2 .module_column_0.tb_9_column.module_column{background-image: url("https://hadeelkh.github.io/testwpstore/wp-content/uploads/2019/11/Green-1.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; padding-top:18%; }
 .module_row_2 .module_column_0.tb_9_column.module_column>div.tb-column-inner,.module_row_2 .module_column_0.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
-.module_row_2 .module_column_0.tb_9_column a{color:#ffffff; }
-.themify_builder .buttons-9-2-0-0.module.module-buttons{background-repeat: repeat; background-position: left top; }
-.themify_builder .buttons-9-2-0-0 div.module-buttons{text-align: center; }
+@media screen and (max-width: 680px) {.module_row_2 .module_column_0.tb_9_column.module_column{padding-top:30%; }
+}
+.module_row_2 .module_column_1.tb_9_column.module_column{background-image: url("https://hadeelkh.github.io/testwpstore/wp-content/uploads/2019/11/Yellow-BG-1.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; }
+.module_row_2 .module_column_1.tb_9_column.module_column>div.tb-column-inner,.module_row_2 .module_column_1.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_2 .module_column_2.tb_9_column.module_column{background-image: url("https://hadeelkh.github.io/testwpstore/wp-content/uploads/2019/11/Purple.jpg"); background-repeat: no-repeat;background-size: cover; background-attachment: scroll; background-position: center center; }
+.module_row_2 .module_column_2.tb_9_column.module_column>div.tb-column-inner,.module_row_2 .module_column_2.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder_9_row.module_row_3.module_row{padding-top:3%; padding-bottom:3%; }
+.module_row_3 .module_column_0.tb_9_column.module_column{background-repeat: repeat; background-attachment: scroll; background-position: center center; text-align: center; padding-top:2%; }
+.module_row_3 .module_column_0.tb_9_column.module_column>div.tb-column-inner,.module_row_3 .module_column_0.tb_9_column.module_column>.tb_holder{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.themify_builder .buttons-9-3-0-0.module.module-buttons{background-repeat: repeat; background-position: left top; }
+.themify_builder .buttons-9-3-0-0 div.module-buttons{padding-top:0%; padding-bottom:3%; }
+.themify_builder .buttons-9-3-0-0.module-buttons{margin-bottom:2%; }
+.themify_builder .text-9-3-0-2.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder .text-9-3-0-2.module-text,.themify_builder .text-9-3-0-2.module-text h1,.themify_builder .text-9-3-0-2.module-text h2,.themify_builder .text-9-3-0-2.module-text h3:not(.module-title),.themify_builder .text-9-3-0-2.module-text h4,.themify_builder .text-9-3-0-2.module-text h5,.themify_builder .text-9-3-0-2.module-text h6{color:#ffffff; }
+.themify_builder_9_row.module_row_4.module_row{background-image:-webkit-radial-gradient(rgb(243, 144, 79) 0%,rgb(59, 67, 113) 100%);
+background-image:-o-radial-gradient(rgb(243, 144, 79) 0%,rgb(59, 67, 113) 100%);
+background-image:radial-gradient(rgb(243, 144, 79) 0%,rgb(59, 67, 113) 100%);
+background-repeat: repeat; background-attachment: scroll; background-position: center center; padding-top:5%; padding-bottom:5%; }
+.themify_builder_9_row.module_row_4.module_row>div.row_inner{background-repeat: repeat; background-attachment: scroll; background-position: center center; }
+.module_row_4 .module_column_0.tb_9_column.module_column{background-attachment: scroll; background-repeat: repeat; padding-bottom:5%; padding-top:5%; }
+@media screen and (max-width: 680px) {.module_row_4 .module_column_0.tb_9_column.module_column{padding-bottom:25%; padding-top:25%; background-attachment: scroll; background-repeat: repeat; }
+}
+.themify_builder .text-9-4-1-0.module-text{background-repeat: repeat; background-position: left top; }
+.themify_builder .text-9-4-1-0.module-text,.themify_builder .text-9-4-1-0.module-text h1,.themify_builder .text-9-4-1-0.module-text h2,.themify_builder .text-9-4-1-0.module-text h3:not(.module-title),.themify_builder .text-9-4-1-0.module-text h4,.themify_builder .text-9-4-1-0.module-text h5,.themify_builder .text-9-4-1-0.module-text h6{color:rgba(255,255,255, 0.95); }
+@media screen and (max-width: 680px) {.themify_builder .text-9-4-1-0.module-text{font-size:14px; }
+.themify_builder .text-9-4-1-0.module-text,.themify_builder .text-9-4-1-0.module-text h1,.themify_builder .text-9-4-1-0.module-text h2,.themify_builder .text-9-4-1-0.module-text h3:not(.module-title),.themify_builder .text-9-4-1-0.module-text h4,.themify_builder .text-9-4-1-0.module-text h5,.themify_builder .text-9-4-1-0.module-text h6{color:rgba(255,255,255, 0.95); }
+}
+@media screen and (max-width: 680px) {.themify_builder .buttons-9-4-1-1 div.module-buttons{padding-bottom:5%; }
+}
